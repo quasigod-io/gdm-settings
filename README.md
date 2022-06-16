@@ -1,5 +1,5 @@
 <center>
-<img alt="screenshot" src="https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png"</img>
+<img alt="screenshot" src="https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png"/>
 
 It is written in Python and uses LibAdwaita for its graphical interface.
 

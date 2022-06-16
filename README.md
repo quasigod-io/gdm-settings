@@ -1,10 +1,6 @@
-# Login Manager Settings
-
-An app to change settings of Gnome's Display/Login Manager.
+![screenshot](https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png)
 
 It is written in Python and uses LibAdwaita for its graphical interface.
-
-![screenshot](https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png)
 
 - [Show in App Store](appstream://io.github.realmazharhussain.GdmSettings)
 - [Installation Instructions](https://github.com/realmazharhussain/gdm-settings/wiki/Installation)

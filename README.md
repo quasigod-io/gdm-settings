@@ -1,6 +1,6 @@
 <center><img alt="screenshot" src="https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png"/></center>
 
-<center>It is written in Python and uses LibAdwaita for its graphical interface.</center>
+<center><p>It is written in Python and uses LibAdwaita for its graphical interface.</p></center>
 
 <center><a href="appstream://io.github.realmazharhussain.GdmSettings">Show in App Store</a></center>
 <center><a href="https://github.com/realmazharhussain/gdm-settings/wiki/Installation">Installation Instructions</a></center>

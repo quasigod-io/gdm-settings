@@ -1,4 +1,4 @@
-<center><img alt="screenshot" src="https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png"/></center>
+<center><a href="https://github.com/realmazharhussain/gdm-settings/wiki/Screenshots-(Light)"><img alt="screenshot" src="https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png"/></a></center>
 
 <center><p>It is written in Python and uses LibAdwaita for its graphical interface.</p></center>
 

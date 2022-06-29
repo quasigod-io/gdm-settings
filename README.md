@@ -1,8 +1,3 @@
-<picture>
-  <source srcset="screenshots/screenshot-1.png" media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)"/>
-  <source srcset="screenshots/screenshot-1-dark.png" media="(prefers-color-scheme: dark)"/>
-</picture>
-
 <center><a href="https://github.com/realmazharhussain/gdm-settings/wiki/Screenshots-(Light)"><img alt="screenshot" src="https://github.com/realmazharhussain/gdm-settings/wiki/screenshots/screenshot-1.png"/></a></center>
 
 <center><p>It is written in Python and uses LibAdwaita for its graphical interface.</p></center>

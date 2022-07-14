@@ -14,7 +14,7 @@
   <a href="https://github.com/realmazharhussain/gdm-settings/wiki/Installation">
     <img alt="Flatpak Installs" src="https://img.shields.io/flathub/downloads/io.github.realmazharhussain.GdmSettings">
   </a>
-  <a href="https://github.com/realmazharhussain/gdm-settings/archive/refs/heads/main.tar.gz">
+  <a href="https://github.com/realmazharhussain/gdm-settings">
     <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/realmazharhussain/gdm-settings">
   </a>
   <a href="https://hosted.weblate.org/projects/gdm-settings/#languages">

@@ -51,8 +51,8 @@ header #buttons {
 }
 
 .developer-info {
-  padding: 10px 20px;
-  margin: 0px 33%;
+  padding: 10px;
+  margin: 0px 35%;
   margin-bottom: 15px;
   border-radius: 15px;
 }
@@ -61,11 +61,6 @@ header #buttons {
   font-size: large;
   margin: 10px;
   margin-top: 0px;
-}
-
-.developer-info .info {
-  text-align: start;
-  margin: 0px 55px;
 }
 
 .developer-info .info p {

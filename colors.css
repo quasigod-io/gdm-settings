@@ -1,0 +1,65 @@
+/* Normal Colors */
+body {
+  color: #222;
+  background-color: #eef5ee;
+}
+
+a {
+  color: #4b4bff;
+}
+
+a:hover {
+  color: #1919ff;
+}
+
+.button {
+  color: #fffd;
+  background-color: #fff2;
+  border-color: #fff4;
+}
+
+.button:hover {
+  color: #fff;
+  background-color: #fff3;
+  border-color: #fff6;
+}
+
+header {
+  color: #fff;
+  background: linear-gradient(to right, #155799, #159957);
+}
+
+.developer-info {
+  background-color: #00eeff1a;
+}
+
+/* Dark Mode Colors */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ddd;
+    background-color: #2b302b;
+  }
+
+  a {
+    color: #5b6bff;
+  }
+
+  a:hover {
+    color: #80a0ff;
+  }
+
+  .button {
+    color: #eeed;
+    border-color: #eee4;
+  }
+
+  .button:hover {
+    color: #eeee;
+    border-color: #eee6;
+  }
+
+  header {
+    color: #ddd;
+    background: linear-gradient(to right, #155799, #159957);
+  }
+}

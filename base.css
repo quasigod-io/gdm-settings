@@ -1,12 +1,25 @@
 
-body {
+html {
   font-family: "Noto Serif", serif;
   text-align: center;
-  margin: 0px;
+}
+
+body {
+  margin: 0;
+}
+
+picture, img {
+  height: auto;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
 }
 
 h2 {
-  margin-top: 0px;
+  font-size: 1.3rem;
+  margin-top: 0;
 }
 
 a {
@@ -14,6 +27,7 @@ a {
 }
 
 .button {
+  display: inline-block;
   padding: 12px 15px;
   margin: 5px;
   text-decoration: none;
@@ -22,19 +36,17 @@ a {
 }
 
 header {
-  margin-bottom: 5px;
-  padding: 70px;
-  margin: 0px;
+  padding: 5vh;
+  margin: 0;
 }
 
 header #app-icon {
-  margin: 0px;
+  margin: 0;
   width: 100px;
 }
 
 header h1 {
-  margin: 0px;
-  font-size: 50px;
+  margin: 0;
 }
 
 header #description {
@@ -42,25 +54,30 @@ header #description {
 }
 
 header #buttons {
-  margin-top: 40px;
+  margin-top: auto;
 }
 
 #screenshot {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 .developer-info {
+  display: inline-block;
   padding: 10px;
-  margin: 0px 35%;
+  margin: 0 auto;
   margin-bottom: 15px;
   border-radius: 15px;
 }
 
 .developer-info h2{
-  font-size: large;
+  margin: 0;
+}
+
+.developer-info #name{
   margin: 10px;
-  margin-top: 0px;
+  font-size: 1.15rem;
+  font-weight: bold;
 }
 
 .developer-info .info p {

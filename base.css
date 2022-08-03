@@ -64,7 +64,7 @@ header #buttons {
 
 .developer-info {
   display: inline-block;
-  padding: 10px;
+  padding: 10px 15px;
   margin: 0 auto;
   margin-bottom: 15px;
   border-radius: 15px;
@@ -76,8 +76,7 @@ header #buttons {
 
 .developer-info #name{
   margin: 10px;
-  font-size: 1.15rem;
-  font-weight: bold;
+  font-size: 1.1rem;
 }
 
 .developer-info .info p {

@@ -10,7 +10,7 @@ body {
 
 picture, img {
   height: auto;
-  max-width: 100%;
+  max-width: 100vw;
 }
 
 h1 {

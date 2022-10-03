@@ -33,6 +33,10 @@ header {
   background-color: #00eeff1a;
 }
 
+.developer-info h2 {
+  color: #25bb77;
+}
+
 /* Dark Mode Colors */
 @media (prefers-color-scheme: dark) {
   body {

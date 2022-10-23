@@ -24,6 +24,10 @@ a:hover {
   border-color: #fff6;
 }
 
+.button.prominent {
+  color: #fffe;
+}
+
 header {
   color: #fff;
   background: linear-gradient(to right, #155799, #159957);
@@ -60,6 +64,14 @@ header {
   .button:hover {
     color: #eeee;
     border-color: #eee6;
+  }
+
+  .button.prominent {
+    color: #eeee;
+  }
+
+  .button.prominent:hover {
+    color: #eee;
   }
 
   header {

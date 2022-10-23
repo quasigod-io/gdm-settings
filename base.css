@@ -28,11 +28,18 @@ a {
 
 .button {
   display: inline-block;
-  padding: 12px 15px;
+  padding: 7px 10px;
   margin: 5px;
   text-decoration: none;
   border: 1px solid;
   border-radius: 5px;
+}
+
+.button.prominent {
+  padding: 10px 15px;
+  border-width: 2px;
+  border-radius: 8px;
+  font-weight: bold;
 }
 
 header {
@@ -54,7 +61,7 @@ header #description {
 }
 
 header #buttons {
-  margin-top: auto;
+  margin: 15px;
 }
 
 #screenshot {

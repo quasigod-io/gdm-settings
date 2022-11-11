@@ -76,7 +76,7 @@ XDG_RUNTIME_DIR = GLib.get_user_runtime_dir()
 # Application-specific Directories
 from .info import application_id
 TEMP_DIR       = os.path.join(XDG_RUNTIME_DIR, 'app', application_id)
-HOST_DATA_DIRS = PATH(os.environ.get('HOST_DATA_DIRS', '/usr/local/share:/usr/share'))
+HOST_DATA_DIRS = PATH(os.environ.get('XDG_DATA_DIRS', '/usr/local/share:/usr/share'))
 
 
 # Package Type and related stuff
